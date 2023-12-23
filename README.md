@@ -23,29 +23,6 @@
     <li>TensorFlow or other backend supported by Keras</li>
 </ul>
 
-<h2>Installation</h2>
-
-<ol>
-    <li>Clone the repository:</li>
-    <code>
-        git clone https://github.com/shubham5027/vgg16-mnist-keras.git<br>
-        cd vgg16-mnist-keras
-    </code>
-    <li>Install the required dependencies:</li>
-    <code>
-        pip install -r requirements.txt
-    </code>
-</ol>
-
-<h2>Usage</h2>
-
-<p>Run the <code>vgg16_mnist.py</code> script to train the VGG16 model on the MNIST dataset:</p>
-
-<code>
-    python vgg16_mnist.py
-</code>
-
-<p>Adjust the script parameters or modify the architecture in the script to suit your specific needs.</p>
 
 <h2>Model Architecture</h2>
 
